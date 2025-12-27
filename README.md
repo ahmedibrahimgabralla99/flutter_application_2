@@ -1,16 +1,63 @@
-# flutter_application_2
+This repository contains a collection of Flutter-based projects developed as part of the Software Development Internship at Saiket Systems.
+Each task demonstrates practical skills in Flutter, API integration, local storage, and user interaction.
 
-A new Flutter project.
+ Project Overview
 
-## Getting Started
+The goal of this internship is to enhance real-world software development skills through hands-on projects including:
 
-This project is a starting point for a Flutter application.
+API integration
 
-A few resources to get you started if this is your first Flutter project:
+Local storage handling
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+User interaction and UI design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Logical problem-solving
+
+ Tasks Included
+Task 2: Fetch Data from API
+
+A Flutter application that fetches real-time data from a public API and displays it in a user-friendly format.
+
+Features:
+
+API integration using http package
+
+JSON parsing
+
+Dynamic UI updates
+
+ Task 3: Blog App (Local Storage)
+
+A simple blog application where users can:
+
+Create blog posts
+
+View saved posts
+
+Delete posts
+
+Technologies Used:
+
+SharedPreferences for local storage
+
+Task 4: Number Guessing Game
+
+A fun interactive game where:
+
+The system generates a random number (1–100)
+
+The user guesses until correct
+
+The app gives hints (Too High / Too Low)
+
+Attempts are counted
+
+ Task 5: Contact Book
+
+A simple contact management application:
+
+Add contacts (name & phone)
+
+View contact list
+
+Delete contacts
